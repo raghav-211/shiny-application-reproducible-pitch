@@ -1,0 +1,13 @@
+name: shiny-app-coursera
+title: shiny-app-coursera
+username:
+account: raghav-211
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7703602
+bundleId: 6542708
+url: https://raghav-211.shinyapps.io/shiny-app-coursera/
+when: 1669118160.43079
+lastSyncTime: 1669118160.43081
+asMultiple: FALSE
+asStatic: FALSE
